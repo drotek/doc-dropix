@@ -1,5 +1,19 @@
 # Summary
 
-* [Introduction to Dropix User Guide](README.md)
-* [First configuration](chapter1.md)
-
+* [Dropix](README.md)
+* [Features](features.md)
+  * [Dropix introduction](features/intro.md)
+  * [Specifications](features/specs.md)
+  * [Architecture](features/archi.md)
+  * [Inputs/Outputs](features/io.md)
+* [QGroundControl](qgc.md)
+  * [Downloading the software](dl.md)
+  * [Introduction to UI](introui.md)
+* [Main devices](main.md)
+  * [Arming switch](switch.md)
+  * [Buzzer](buzz.md)
+  * [LED Module](led.md)
+  * [Alimentation](alim.md)
+  * [Radio receiver](radio.md)
+  * [ESC/Motors](motors.md)
+* [Optional devices](option.md)

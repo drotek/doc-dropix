@@ -1,6 +1,0 @@
-# First Dropix configuration
-
-
-
-
-
