@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction to Dropix User Guide](README.md)
+* [First configuration](chapter1.md)
+

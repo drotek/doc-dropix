@@ -1,3 +1,6 @@
-# My Awesome Book
+# Dropix user guide
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+\[PIC DROPIX\]
+
+The purpose of this book is to introduce you to the Dropix autopilot, developed and manufactured by Drotek in France. 
+
