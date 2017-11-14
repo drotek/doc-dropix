@@ -1,6 +1,6 @@
 # Summary
 
-* [Dropix](README.md)
+* [Dropix](dropix.md)
 * [Features](features.md)
   * [Dropix introduction](features/intro.md)
   * [Specifications](features/specs.md)
