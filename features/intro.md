@@ -5,7 +5,7 @@ The **Dropix** is an autopilot manufactured by the french technology company Dro
 Developped and upgraded multiple times during the last years, it is built for anyone looking to provide its vehicle with a reliable, easy to use and powerful autopilot that's affordable and built with high standards of quality. 
 
 <p align="center">
-  <img src="./images/ico.png?raw=true" alt="Hardware"/>
+  <img src="./images/ico1.png?raw=true" alt="Hardware"/>
 </p>
 
 The FMU is an **STM32F427VIT6** microchip from _ST-Electronics_, picked for it's great versatility, offering great power and responsiveness with its ARM® 32-bit Cortex®-M4 CPU running a **real-time NuttX operating system**.
