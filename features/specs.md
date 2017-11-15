@@ -2,10 +2,10 @@
 
 ###Form factor
 
-Size (l*L*h) : 
-- 84.2*56*10.6 mm. _without case, with connectors_
-- 67.2*50.1*6 mm. _without case, without connectors_
-- 86*62*14 mm. _with case, with connectors_
+Size (l x L x h) : 
+- 84.2 x 56 x 10.6 mm. _without case, with connectors_
+- 67.2 x 50.1 x 6 mm. _without case, without connectors_
+- 86 x 62 x 14 mm. _with case, with connectors_
 
 Weight : 
 - 15 g. without case, without connectors
