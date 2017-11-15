@@ -3,7 +3,6 @@
 * [Features](features.md)
   * [Dropix introduction](features/intro.md)
   * [Specifications](features/specs.md)
-  * [Architecture](features/archi.md)
   * [Inputs/Outputs](features/io.md)
 * [QGroundControl](qgc.md)
   * [Downloading the software](qgc/dl.md)
