@@ -4,7 +4,7 @@
   <img src="./images/qgcsym.png?raw=true" alt="QGC Logo"/>
 </p>
 
-_Note: The following introduction is mainly focused on the desktop version of Windows QGroundControl. You can get to the [official user guide web page](https://docs.qgroundcontrol.com/en/) to find more informations on the use of the software on different platforms._
+_Note: The appearance of the software may vary depending on the platform you're running the software on._
 
 -----
 
