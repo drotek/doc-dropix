@@ -14,7 +14,7 @@ _You can find [following this link](http://ardupilot.org/copter/docs/common-soun
 
 ####How to plug it
 
-The buzzer needs to be connected to the Dropix on the right of the accesories rail.
+The buzzer needs to be connected to the Dropix on the right of the accesories rail, on the corresponding pin headers (marked B+ and B-).
 
 <p align="center">
   <img src="./images/buzzer1.jpg?raw=true" alt="Buzzer"/>
