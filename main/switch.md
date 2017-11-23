@@ -6,7 +6,7 @@
 
 _[Product store page link.](https://drotek.com/shop/en/home/490-led-pushbutton-switch.html)_
 
-In order to arm the drone, you will need to plug a switch to the board. This switch will be used to arm the drone after it has been powered up and that the hardware and software checks have been performed.
+In order to arm your drone, you will need to plug a switch to the board. This switch will be used to arm the drone after it has been powered up and that the hardware and software checks have been performed.
 
 <p align="center">
   <img src="./images/blink switch.png?raw=true" alt="Switch blinking meaning"/>
