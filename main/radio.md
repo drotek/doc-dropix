@@ -3,6 +3,10 @@
 The radio receiver will allow you to control your machine using your favorite radio controller.
 Depending on your equipment, you'll have to connect your receiver to different connectors of the Dropix.
 
+<p align="center">
+  <img src="./images/receivers.jpg?raw=true" alt="Receivers introduction"/>
+</p>
+
 ##SBUS ready receiver
 
 To use an SBUS receiver, you'll have to plug your receiver to the **RCIN** port of the Dropix, taking care of the orientation of the connector.
@@ -30,7 +34,7 @@ For classical (PWM) radio receivers that are neither SBUS or Spektrum ready, you
 </p>
 
 This module is meant to translate multiple PWM outputs from the radio receiver into a single PPM signal that will be compatible with the Dropix. To use it:
-- Connect the PWM outputs from your radio receiver to the PPM encoder using the 9 cables connector, keeping the channels from the receiver corresponding to the order of the cables on the PPM encoder. 
+- Connect the PWM outputs from your radio receiver to the PPM encoder using the 10 cables connector, keeping the channels from the receiver corresponding to the order of the cables on the PPM encoder. 
 - Connect the 3 wires cable on the **RCIN** of the Dropix autopilot.
 - To get the PPM encoder board to get its power supply from the autopilot, leave the solder bridge unsoldered.
 
