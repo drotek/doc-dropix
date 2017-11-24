@@ -17,9 +17,9 @@ The LED module is built to give details about the system's state in real-time. I
 The LED module has to be plugged on the accesories rail of the Dropix, where you can find a port built for the LED module. 
 
 <p align="center">
-  <img src="./images/led1.jpg?raw=true" alt="LED Blink meaning"/>
+  <img src="./images/led11.jpg?raw=true" alt="LED Blink meaning"/>
 </p>
 
 <p align="center">
-  <img src="./images/led2.jpg?raw=true" alt="LED Blink meaning"/>
+  <img src="./images/led22.jpg?raw=true" alt="LED Blink meaning"/>
 </p>
