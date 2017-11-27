@@ -12,7 +12,7 @@ _You can find the unmounted version of this power module [here](https://drotek.c
 
 #How to plug
 
-For a mounted power module, you will need to connect your battery to the XT60 connector, and solder the cables going out on the other side of the board to you rpower distribution board. 
+For a mounted power module, you will need to connect your battery to the XT60 connector, and solder the cables going out on the other side of the board to your power distribution board. 
 
 The pinout for the JST-GH connector is meant for the Pixhawk 3 PRO autopilot, which means it will be necessary to look at the exact pinout (which can be found below) to connect your power module correctly to your Dropix autopilot.
 
@@ -28,7 +28,7 @@ The power module has **two 5V outputs**, **two GND pins**, and **one pin for the
 
 On the picture below: 
 - BEC V is meant for voltage sensing, with the _S_ marked pin as the input for the voltage sensing signal
-- BEC C is meant for current sensing, with the _V_ marked pin as the input for the current sensing signal
+- BEC C is meant for current sensing, with the _S_ marked pin as the input for the current sensing signal
 - Both BECs have 5V and GND pins connected to provide the redundant power supply
 
 <p align="center">
