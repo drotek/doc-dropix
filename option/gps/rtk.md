@@ -5,5 +5,5 @@ The RTK technology and technique is a new positioning technique that allows, thr
 You can follow [this link](https://www.gitbook.com/book/drotek/doc-rtk/details) to find out more about the RTK technology and the RTK modules Drotek sells on its shop!
 
 <p align="center">
-  <img src="./images/rtk.png?raw=true" alt="RTK Logo"/>
+  <img src="./images/rtkmain.png?raw=true" alt="RTK Logo"/>
 </p>
