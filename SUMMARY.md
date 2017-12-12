@@ -15,6 +15,7 @@
   * [Radio receiver](main/radio.md)
   * [ESC/Motors](main/motors.md)
 * [Optional devices](option.md)
+  * [All In One Module](option/allinone.md)
   * [GPS](option/gps.md)
     * [XL module](option/gps/xl.md)
     * [XXL module](option/gps/xxl.md)
@@ -22,5 +23,4 @@
 	* [RTK modules](option/gps/rtk.md)
   * [Telemetry](option/telem.md)
   * [Airspeed](option/airspeed.md)
-  * [All In One](option/allinone.md)
   * [Px4Flow](option/px4flow.md)
