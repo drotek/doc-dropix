@@ -18,4 +18,4 @@ You can find more informations on [this page](https://drotek.com/shop/en/home/75
 
 All outputs of the AIO module correspond to pins present on the Dropix autopilot. You can take a look below to see how to connect your AIO module to the Dropix:
 
-[PIC WIRING AIO]
+[PIC WIRING AIO] 
