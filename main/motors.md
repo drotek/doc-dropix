@@ -12,5 +12,6 @@ Depending on your configuration, you will need to take care of which ESC you plu
 
 _[Click here](images/motors.png) for fullsize infographic._
 
-[ESC Autopilot Link infographic](images/motors.png)
-
+<p align="center">
+  <img src="./images/motors.png?raw=true" alt="Rail servo"/>
+</p>
