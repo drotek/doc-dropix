@@ -13,6 +13,4 @@ In this book you will find out how to use the Dropix autopilot efficiently, what
 -----
 
 
-Book written by Valentin Lacomme. 
-
 If you have suggestions, if you spotted errors, if you think there are mistakes, or if you feel you can help making this book better, feel free to email me at docs[at]drotek.com!
