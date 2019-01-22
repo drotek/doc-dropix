@@ -4,7 +4,7 @@
   <img src="./images/led.jpg?raw=true" alt="LED Module"/>
 </p>
 
-_[Product store page link.](https://drotek.com/shop/en/home/465-pixhawkdropix-rgb-led-module.html)_
+_[Product store page link.](https://store.drotek.com/accessories/465-pixhawkdropix-rgb-led-module-8944595425065.html)_
 
 The LED module is built to give details about the system's state in real-time. It's different blinking patterns and colors will tell you what the system is busy with at the moment, indicating errors or checks being performed for instance. 
 
