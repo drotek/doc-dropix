@@ -8,8 +8,11 @@ In this book you will find out how to use the Dropix autopilot efficiently, what
 
 
 <p align="center">
-  <img src="./images/drotek.jpg?raw=true" alt="dropix-autopilot-drotek"/>
+  <img src="./images/dropix-autopilot-drotek.jpg?raw=true" alt="dropix-autopilot-drotek"/>
 </p>
+
+       
+      
 
 
 
