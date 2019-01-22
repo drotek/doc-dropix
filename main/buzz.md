@@ -4,7 +4,7 @@
   <img src="./images/buzzer.jpg?raw=true" alt="Buzzer"/>
 </p>
 
-_[Product store page link.](https://drotek.com/shop/en/home/451-buzzer-piezo.html)_
+_[Product store page link.](https://store.drotek.com/accessories/451-44-buzzer-piezo.html#/36-connectors-without)_
 
 The polyphonic buzzer is made to inform the user about the current state of the autopilot, letting you know when the drone is ready to be armed, ready to fly, and other different states. It will sound differently depending on the present state of the system. 
 
