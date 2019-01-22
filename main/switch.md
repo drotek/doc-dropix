@@ -4,7 +4,7 @@
   <img src="./images/switch.png?raw=true" alt="Switch"/>
 </p>
 
-_[Product store page link.](https://drotek.com/shop/en/home/490-led-pushbutton-switch.html)_
+_[Product store page link.](https://store.drotek.com/accessories/490-254-led-pushbutton-switch.html#/108-cable-dropix)_
 
 In order to arm your drone, you will need to plug a switch to the board. This switch will be used to arm the drone after it has been powered up and that the hardware and software checks have been performed.
 
