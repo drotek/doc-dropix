@@ -4,7 +4,7 @@
   <img src="./images/alim.jpg?raw=true" alt="Power module"/>
 </p>
 
-_[Product store page link.](https://drotek.com/shop/en/home/809-voltage-current-53v-power-supply-mounted.html)_
+_[Product store page link.](https://store.drotek.com/power-supply/453-power-module-for-apm-pixhawk-and-dropix.html)_
 
 You'll need to use a power supply module to provide **clean and regulated power** to your autopilot and other parts, as well as being able to **sense your current and voltage** real-time and overall consumption for the Dropix autopilot.
 
