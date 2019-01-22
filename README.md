@@ -6,6 +6,8 @@ Users and companies from all around the world use it for multiple purposes, such
 
 In this book you will find out how to use the Dropix autopilot efficiently, what is possible with it, and what devices you should operate it with.</p>
 
+![](/assets/dropix-autopilot-drotek.jpg)
+
 <p align="center">
   <img src="./images/drotek.jpg?raw=true" alt="Drotek Logo"/>
 </p>
