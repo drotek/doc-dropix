@@ -11,13 +11,10 @@ In this book you will find out how to use the Dropix autopilot efficiently, what
   <img src="./images/dropix-autopilot-drotek.jpg?raw=true" alt="dropix-autopilot-drotek"/>
 </p>
 
-       
-      
-
 
 
 <p align="center">
-  <img src="./images/drotek.jpg?raw=true" alt="Drotek Logo"/>
+  <img src="./images/Drotek-logo_withoutTagline_black-(1).png?raw=true" alt="Drotek Logo"/>
 </p>
 
 -----
