@@ -1,6 +1,6 @@
-# Dropix specifications
+# Specifications
 
-### Form factor
+## Form factor
 
 Size \(l x L x h\) :
 
@@ -14,14 +14,14 @@ Weight :
 * xx g. without case, with connectors
 * xx g. with case, with connectors
 
-### Sensors
+## Sensors
 
 * **MPU-6000** from _Invensense_ - 3 Axis Accelerometer/Gyroscope
 * **L3GD20** from _ST_ - 3 Axis Gyroscope
 * **LSM303D** from _ST_ - 3 Axis Accelerometer/Magnetometer
 * **MS5611** from _MEAS_ - Barometer
 
-### Connectivity
+## Connectivity
 
 * 14 PWM/Servo outputs \(8 with failsafe and manual override, 5 auxiliary, high-power compatible\)
 * I2C bus
@@ -33,6 +33,4 @@ Weight :
 * GPS port
 * 4 Serial ports
 * 2 Analog outputs
-
-
 
