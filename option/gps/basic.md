@@ -6,13 +6,13 @@ It's ground plane is limited but it's small form-factor will help you place it e
 
 You can find more information on [this page](https://drotek.com/shop/en/home/511-ublox-neo-m8-gps-module.html).
 
-![Basic GPS Module](https://github.com/drotek/dropix-user-guide/tree/ca9b0b8ce7017adbce2d4b0a6b715497d63cadf8/option/gps/images/mn.jpg?raw=true)
+![](../../.gitbook/assets/mn.png)
 
 ## Hardware
 
 To connect your Basic NEO-M8N module, use the 4 pin JST cable to connect your module to your autopilot using the JWT headers. You should use the GPS port on the accesories rail of the Dropix, but keep in mind that this module does not come with a magnetometer, which means the I2C bus pins of the Dropix \(_SDA_ & _SCL_\) will be unused.
 
-![Basic GPS Module](https://github.com/drotek/dropix-user-guide/tree/ca9b0b8ce7017adbce2d4b0a6b715497d63cadf8/option/gps/images/mncon.jpg?raw=true)
+![](../../.gitbook/assets/mncon.jpg)
 
 ## Software
 

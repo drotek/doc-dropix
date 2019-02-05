@@ -6,13 +6,13 @@ These modules offer better satellite reception than the GNSS "Mushroom" module t
 
 You can find more information on [this page](https://drotek.com/shop/en/drotek-parts/613-ublox-neo-m8n-gps-hmc5983-compass-xl.html?search_query=ublox&results=18).
 
-![XL GPS Module](https://github.com/drotek/dropix-user-guide/tree/ca9b0b8ce7017adbce2d4b0a6b715497d63cadf8/option/gps/images/xl.jpg?raw=true)
+![](../../.gitbook/assets/xl.jpg)
 
 ## Hardware
 
 To connect your XL GNSS module to your Dropix autopilot, you'll need to use a 6 pin JST-GH to 6 \* single header cable. Plug it into your XL GNSS module and then connect it to your Dropix's GPS port on the accesories rail, taking care of the pinout. Take care of installing your GNSS module heading the same way as the autopilot to reduce constraints and setup steps.
 
-![XL GPS connected](https://github.com/drotek/dropix-user-guide/tree/ca9b0b8ce7017adbce2d4b0a6b715497d63cadf8/option/gps/images/xlcon.jpg?raw=true)
+![](../../.gitbook/assets/xlcon.jpg)
 
 ## Software
 
@@ -20,7 +20,7 @@ After connecting your GNSS module to your Dropix autopilot, you'll need to set i
 
 Connect your autopilot to your GCS, and then go to the sensors settings. There, you should calibrate your compass \(both external and autopilot\) and setup the external compass's rotation in case you did not set the GNSS board heading the same way as your autopilot. Do not forget to set your autopilot so that the exernal compass is used and active.
 
-![XL GPS Conf](https://github.com/drotek/dropix-user-guide/tree/ca9b0b8ce7017adbce2d4b0a6b715497d63cadf8/option/gps/images/xl1.jpg?raw=true)
+![](../../.gitbook/assets/xl1%20%281%29.jpg)
 
 For full informations concerning the setup of your GNSS board within your machine, refer to your GCS's user manual \([QgroundControl](https://docs.qgroundcontrol.com/en/) / [Mission Planner](http://ardupilot.org/planner/docs/mission-planner-overview.html)\)
 

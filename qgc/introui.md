@@ -1,10 +1,10 @@
 # Introduction to UI
 
-![QGC Logo](https://github.com/drotek/dropix-user-guide/tree/ca9b0b8ce7017adbce2d4b0a6b715497d63cadf8/qgc/images/qgcsym.png?raw=true)
+![](../.gitbook/assets/qgcsym.png)
 
 _Note: The appearance of the software may vary depending on the platform you're running the software on._
 
-![QGC](https://github.com/drotek/dropix-user-guide/tree/ca9b0b8ce7017adbce2d4b0a6b715497d63cadf8/qgc/images/qgc1.png?raw=true)
+![](../.gitbook/assets/mockupqgroundcountrol.png)
 
 The QGroundControl software has many features. Key ones are:
 
@@ -15,7 +15,7 @@ The QGroundControl software has many features. Key ones are:
 * Video streaming with instrument display overlays.
 * Support for managing multiple vehicles.
 
-![QGC](https://github.com/drotek/dropix-user-guide/tree/ca9b0b8ce7017adbce2d4b0a6b715497d63cadf8/qgc/images/qgc2.png?raw=true)
+![](../.gitbook/assets/qgc2.png)
 
 After opening the software, you should land on the main window of the program.
 

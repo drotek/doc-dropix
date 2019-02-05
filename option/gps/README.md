@@ -4,5 +4,5 @@ It is easily possible to add a GNSS module in order to be able to geolocate your
 
 RTK technology provides an impressive accuracy when used in the best conditions, allowing for even more precise missions.
 
-![XL RTK Module](https://github.com/drotek/dropix-user-guide/tree/ca9b0b8ce7017adbce2d4b0a6b715497d63cadf8/option/images/xl3D.png?raw=true)
+![](../../.gitbook/assets/xl3d.png)
 
