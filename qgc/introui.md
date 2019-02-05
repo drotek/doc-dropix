@@ -1,10 +1,10 @@
 # Introduction to UI
 
-![](../.gitbook/assets/qgcsym.png)
+![](../.gitbook/assets/qgcsym%20%281%29.png)
 
 _Note: The appearance of the software may vary depending on the platform you're running the software on._
 
-![](../.gitbook/assets/mockupqgroundcountrol.png)
+![](../.gitbook/assets/mockupqgroundcountrol%20%281%29.png)
 
 The QGroundControl software has many features. Key ones are:
 

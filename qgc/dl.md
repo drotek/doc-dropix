@@ -6,5 +6,3 @@ To download it, [follow this link](https://docs.qgroundcontrol.com/en/getting_st
 
 After the installation, you should be able to start QGoundControl.
 
-![Checkmark](https://github.com/drotek/dropix-user-guide/tree/ca9b0b8ce7017adbce2d4b0a6b715497d63cadf8/qgc/images/check.png?raw=true)
-
