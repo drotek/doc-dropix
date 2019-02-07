@@ -22,7 +22,4 @@
     * [XXL module](option/gps/xxl.md)
     * [Basic NEO-M8N module](option/gps/basic.md)
     * [RTK modules](option/gps/rtk.md)
-  * [Telemetry](option/telem.md)
-  * [Airspeed](option/airspeed.md)
-  * [Px4Flow](option/px4flow.md)
 
