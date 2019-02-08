@@ -1,10 +1,10 @@
 # Introduction to UI
 
-![](../.gitbook/assets/qgcsym%20%281%29.png)
+![](../../.gitbook/assets/qgcsym%20%281%29.png)
 
 _Note: The appearance of the software may vary depending on the platform you're running the software on._
 
-![](../.gitbook/assets/mockupqgroundcountrol%20%281%29.png)
+![](../../.gitbook/assets/mockupqgroundcountrol%20%281%29.png)
 
 The QGroundControl software has many features. Key ones are:
 
@@ -15,7 +15,7 @@ The QGroundControl software has many features. Key ones are:
 * Video streaming with instrument display overlays.
 * Support for managing multiple vehicles.
 
-![](../.gitbook/assets/qgc2.png)
+![](../../.gitbook/assets/qgc2.png)
 
 After opening the software, you should land on the main window of the program.
 
