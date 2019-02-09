@@ -1,6 +1,6 @@
 # Arming switch
 
-![](../.gitbook/assets/switch.png)
+![](../.gitbook/assets/arming-switch-drotek.png)
 
 [_Product store page link._](https://store.drotek.com/accessories/490-254-led-pushbutton-switch.html#/108-cable-dropix)
 
