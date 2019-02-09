@@ -1,4 +1,4 @@
-# Inputs/Outputs
+# Pinouts
 
 Here are the inputs and outputs connectivity of the Dropix autopilot. _These are also figured on the sticker present on the Dropix case_.
 

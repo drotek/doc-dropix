@@ -4,7 +4,7 @@
 * [Hardware](hardware/README.md)
   * [Dropix introduction](hardware/intro.md)
   * [Specifications](hardware/specs.md)
-  * [Inputs/Outputs](hardware/io.md)
+  * [Pinouts](hardware/io.md)
 * [Software](software/README.md)
   * [QGroundControl](software/qgc/README.md)
     * [Introduction to UI](software/qgc/introui.md)
