@@ -28,5 +28,5 @@ On the picture below:
 * BEC C is meant for current sensing, with the _S_ marked pin as the input for the current sensing signal
 * Both BECs have 5V and GND pins connected to provide the redundant power supply
 
-![](../.gitbook/assets/acsplugged.jpg)
+![](../.gitbook/assets/dropix-plug-to-voltage-current-mounted-drotek.png)
 
