@@ -2,11 +2,11 @@
 
 ![](../../.gitbook/assets/alim.jpg)
 
-[_Product store page link._](https://drotek.com/shop/en/home/809-voltage-current-53v-power-supply-mounted.html)
+[_Product store page link._](https://store.drotek.com/power-supply/809-voltage-current-53v-power-supply-mounted-8944595425232.html)
 
 You'll need to use a power supply module to provide **clean and regulated power** to your autopilot and other parts, as well as being able to **sense your current and voltage** real-time and overall consumption for the Dropix autopilot.
 
-_You can find the unmounted version of this power module_ [_here_](https://drotek.com/shop/en/home/806-voltage-current-power-supply.html) _to be able to mount it yourself. You'll need to buy an XT60 \(or T-Plug\) connector and cable._
+_You can find the unmounted version of this power module_ [_here_](https://store.drotek.com/power-supply/806-612-voltage-current-power-supply.html#/133-dropix_option-100a) _to be able to mount it yourself. You'll need to buy an XT60 \(or T-Plug\) connector and cable._
 
 ## How to plug
 

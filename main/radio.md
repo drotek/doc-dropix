@@ -20,7 +20,7 @@ The Dropix has a Spektrum port in order to be able to use a Spektrum ready contr
 
 ## PWM output receiver
 
-For classical \(PWM\) radio receivers that are neither SBUS or Spektrum ready, you will have to use a PPM Encoder. You can find one to buy on the Drotek shop by following [this link](https://drotek.com/shop/en/home/364-ppm-encoder-8-channels.html).
+For classical \(PWM\) radio receivers that are neither SBUS or Spektrum ready, you will have to use a PPM Encoder. 
 
 ![](../.gitbook/assets/ppmencoder.jpg)
 
