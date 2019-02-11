@@ -1,6 +1,6 @@
 # Buzzer
 
-![](../.gitbook/assets/buzzer-drotek.png)
+![](../.gitbook/assets/buzzer.png)
 
 [_Product store page link._](https://store.drotek.com/accessories/451-44-buzzer-piezo.html#/36-connectors-without)
 
@@ -12,7 +12,5 @@ You can find by [following this link](http://ardupilot.org/copter/docs/common-so
 
 The buzzer needs to be connected to the Dropix on the right of the accesories rail, on the corresponding pin headers \(marked B+ and B-\).
 
-![](../.gitbook/assets/buzzer1.jpg)
-
-![](../.gitbook/assets/buzzer2.jpg)
+![](../.gitbook/assets/dropix-buzzer.png)
 
