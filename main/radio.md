@@ -8,9 +8,9 @@ The radio receiver will allow you to control your machine using your favorite ra
 
 To use an SBUS receiver, you'll have to plug your receiver to the **RCIN** port of the Dropix, taking care of the orientation of the connector.
 
-![](../.gitbook/assets/sbus.jpg)
-
 _Note: the **SBUS** port of the Dropix is an **output**. This can be useful to control servomotors that are controlled using the SBUS protocol._
+
+![](../.gitbook/assets/dropix-radio-receiver.png)
 
 ## SPEKTRUM ready receiver
 
