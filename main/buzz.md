@@ -14,3 +14,5 @@ The buzzer needs to be connected to the Dropix on the right of the accesories ra
 
 ![](../.gitbook/assets/dropix-buzzer.png)
 
+![](../.gitbook/assets/drotek-buzzer-with-dropix.png)
+
