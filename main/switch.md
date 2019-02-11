@@ -10,9 +10,9 @@ In order to arm your drone, you will need to plug a switch to the board. This sw
 
 ## How to plug it
 
-Connect the switch's 3 pins JST connector to the corresponding pin headers \(marked _SWITCH_\) on the right of the accesories rail of the Dropix, with the white marked cable on the top connector.
+Connect the switch's 3 pins JST connector to the corresponding pin headers \(marked _SWITCH_\) on the right of the accessories rail of the Dropix, with the white marked cable on the top connector.
 
-![](../.gitbook/assets/dropix-plug-to-arming-switch-drotek%20%281%29.png)
+![](../.gitbook/assets/dropix-plug-to-arming-switch-drotek.png)
 
 ![](../.gitbook/assets/switch1.jpg)
 
