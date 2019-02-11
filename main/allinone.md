@@ -8,7 +8,7 @@ This module will offer easy access to the arming switch and status LED, as well 
 
 ![](../.gitbook/assets/dropix-drotek-all-in-one-module.png)
 
-You can find more informations on [this page](https://drotek.com/shop/en/home/756-all-in-one-module.html).
+You can find more informations on [this page](https://store.drotek.com/accessories/756-all-in-one-module-8944595424815.html).
 
 ## How to use
 
