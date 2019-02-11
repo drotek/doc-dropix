@@ -18,7 +18,7 @@ The pinout for the JST-GH connector is meant for the Pixhawk 3 PRO autopilot, wh
 
 ![](../.gitbook/assets/pinoutacs.png)
 
-![](../.gitbook/assets/acsplug.png)
+![](../.gitbook/assets/montage-voltage.png)
 
 The power module has **two 5V outputs**, **two GND pins**, and **one pin for the current sensing**, **one pin for the voltage sensing**. As the Dropix is able to have power supply redundancy, you can use both of the 5V and GND pins to supply power on both BECs, as you can see on picture below.
 
