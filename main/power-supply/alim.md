@@ -1,8 +1,6 @@
-# Alimentation
+# Voltage & current sensor board
 
-## Power supply module
-
-![](../.gitbook/assets/alim.jpg)
+![](../../.gitbook/assets/alim.jpg)
 
 [_Product store page link._](https://drotek.com/shop/en/home/809-voltage-current-53v-power-supply-mounted.html)
 
@@ -16,9 +14,9 @@ For a mounted power module, you will need to connect your battery to the XT60 co
 
 The pinout for the JST-GH connector is meant for the Pixhawk 3 PRO autopilot, which means it will be necessary to look at the exact pinout \(which can be found below\) to connect your power module correctly to your Dropix autopilot.
 
-![](../.gitbook/assets/pinoutacs.png)
+![](../../.gitbook/assets/pinoutacs.png)
 
-![](../.gitbook/assets/montage-voltage.png)
+![](../../.gitbook/assets/montage-voltage.png)
 
 The power module has **two 5V outputs**, **two GND pins**, and **one pin for the current sensing**, **one pin for the voltage sensing**. As the Dropix is able to have power supply redundancy, you can use both of the 5V and GND pins to supply power on both BECs, as you can see on picture below.
 
@@ -28,5 +26,5 @@ On the picture below:
 * BEC C is meant for current sensing, with the _S_ marked pin as the input for the current sensing signal
 * Both BECs have 5V and GND pins connected to provide the redundant power supply
 
-![](../.gitbook/assets/dropix-plug-to-voltage-current-mounted-drotek.png)
+![](../../.gitbook/assets/dropix-plug-to-voltage-current-mounted-drotek.png)
 

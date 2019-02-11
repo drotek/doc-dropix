@@ -13,9 +13,10 @@
   * [Arming switch](main/switch.md)
   * [Buzzer](main/buzz.md)
   * [LED Module](main/led.md)
-  * [Alimentation](main/alim.md)
+  * [Power supply](main/power-supply/README.md)
+    * [Voltage & current sensor board](main/power-supply/alim.md)
+    * [Power Module Pro](main/power-supply/power-module-pro.md)
   * [Radio receiver](main/radio.md)
   * [ESC/Motors](main/motors.md)
   * [All In One Module](main/allinone.md)
-* [Power Module Pro](power-module-pro.md)
 

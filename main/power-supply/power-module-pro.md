@@ -8,7 +8,7 @@ It is equipped with protection against surges on each regulated output as well a
 
 Each controller is equipped with a LED indicator to ensure proper operation of the power board.
 
-![](.gitbook/assets/module-de-puissance-5v-12v-capteur-tension-courant-1-700x384.jpg)
+![](../../.gitbook/assets/module-de-puissance-5v-12v-capteur-tension-courant-1-700x384.jpg)
 
-![](.gitbook/assets/entree_top-700x576.jpg)
+![](../../.gitbook/assets/entree_top-700x576.jpg)
 
