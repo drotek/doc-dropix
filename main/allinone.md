@@ -2,7 +2,7 @@
 
 In order to reduce cables and setup complexity, Drotek designed a small module that regroups **the buzzer**, the **status LED**, the **arming switch** and a **USB connector extension** to power your autopilot.
 
-![](../.gitbook/assets/aio.jpg)
+![](../.gitbook/assets/all-in-one-for-dropipx-drotek.png)
 
 This module will offer easy access to the arming switch and status LED, as well as allowing you to power your autopilot and **extend** the USB port of your Dropix to connect it to your GCS more easily.
 
