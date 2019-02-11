@@ -17,4 +17,5 @@
   * [Radio receiver](main/radio.md)
   * [ESC/Motors](main/motors.md)
   * [All In One Module](main/allinone.md)
+* [Tutorials](tutorials.md)
 
