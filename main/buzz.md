@@ -1,6 +1,6 @@
 # Buzzer
 
-![](../.gitbook/assets/buzzer.jpg)
+![](../.gitbook/assets/buzzer-drotek.png)
 
 [_Product store page link._](https://store.drotek.com/accessories/451-44-buzzer-piezo.html#/36-connectors-without)
 
