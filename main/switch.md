@@ -14,5 +14,5 @@ Connect the switch's 3 pins JST connector to the corresponding pin headers \(mar
 
 ![](../.gitbook/assets/dropix-plug-to-arming-switch-drotek.png)
 
-![](../.gitbook/assets/switch1.jpg)
+![](../.gitbook/assets/dropix-plug-to-arming-switch-drotek-2.png)
 
