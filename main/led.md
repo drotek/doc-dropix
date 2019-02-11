@@ -12,7 +12,7 @@ The LED module is built to give details about the system's state in real-time. I
 
 The LED module has to be plugged on the accesories rail of the Dropix, where you can find a port built for the LED module.
 
-![](../.gitbook/assets/led11.jpg)
+![](../.gitbook/assets/dropix-with-led2.png)
 
 ![](../.gitbook/assets/led22.jpg)
 
