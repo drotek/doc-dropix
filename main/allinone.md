@@ -14,5 +14,5 @@ You can find more informations on [this page](https://store.drotek.com/accessori
 
 All outputs of the AIO module correspond to pins present on the Dropix autopilot. You can take a look below to see how to connect your AIO module to the Dropix:
 
-
+![](../.gitbook/assets/led_dropix_4.jpg)
 
