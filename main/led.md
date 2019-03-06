@@ -2,9 +2,9 @@
 
 ![](../.gitbook/assets/led-module-drotek-dropix.png)
 
-[_Product store page link._](https://store.drotek.com/accessories/465-pixhawkdropix-rgb-led-module-8944595425065.html)
-
 The LED module is built to give details about the system's state in real-time. It's different blinking patterns and colors will tell you what the system is busy with at the moment, indicating errors or checks being performed for instance.
+
+ __[_Get more information about this product and shop here._](https://store.drotek.com/pixhawkdropix-rgb-led)\_\_
 
 ![](../.gitbook/assets/led-blink.png)
 
